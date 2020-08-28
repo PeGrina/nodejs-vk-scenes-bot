@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "ES5",
+    "outDir": "./",
+    "rootDir": "./",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "strictNullChecks": false,
+    "useDefineForClassFields": false,
+    "types": ["node"],
+    "lib": ["es5"]
+  },
+  "include": [
+    "./*"
+  ],
+  "exclude": [
+      "./node_modules/*"
+  ]
+}

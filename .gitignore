@@ -1,0 +1,7 @@
+#!./bin/env/.gitignore
+node_modules
+words.txt
+utils.js
+index.js
+package-lock.json
+tsconfig.tsbuildinfo
